@@ -1,0 +1,14 @@
+{
+  "name": "react-trunc",
+  "version": "1.0.0",
+  "description": "A React Component that truncates large pieces of text with a \"Read More\" button to expand it.",
+  "main": "LongText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranay Prakash <pranay.gp@gmail.com> (http://pranayprakash.co)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.0"
+  }
+}
