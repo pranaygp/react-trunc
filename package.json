@@ -9,6 +9,6 @@
   "author": "Pranay Prakash <pranay.gp@gmail.com> (http://pranayprakash.co)",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.3.0"
+    "react": "^16.5.0"
   }
 }
